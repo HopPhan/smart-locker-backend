@@ -3,7 +3,9 @@ Smart Locker Nextjs App
 
 # How to run
 cd smart-locker-backend
+```bash
 npm i
+```
 
 First, run the development server:
 
